@@ -1,2 +1,2 @@
-# sotm
-Open source healing platform
+# Siblings of the Moon
+Open source healing programme
